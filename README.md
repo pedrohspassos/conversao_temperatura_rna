@@ -1,5 +1,5 @@
 
-# Aplicação de Redes Neurais na Conversão de Temperaturas: Uma Introdução à Regressão Linear Simples
+# Ajuste de Parâmetros de Conversão de Temperaturas Utilizando Redes Neurais
 
 
 
@@ -10,12 +10,12 @@ O uso de redes neurais tem se destacado em problemas onde a identificação de p
 
 ## Decrição do Projeto
 
-Neste projeto, aplicaremos redes neurais para um problema simples e linear, com o objetivo principal de prever a temperatura em Fahrenheit a partir de temperaturas em graus Celsius. Este exercício, apesar de não explorar a capacidade máxima das redes neurais, serve como uma excelente introdução ao seu uso em problemas de regressão e ao entendimento dos conceitos fundamentais envolvidos na construção e treinamento de modelos de redes neurais.
+Neste projeto, aplicaremos redes neurais para um problema simples e linear, com o objetivo principal de determinar os melhores parâmetros que se adequem à função que representa a relação entre a temperatura em graus Celsius e a temperatura em Fahrenheit. Este exercício, apesar de não explorar a capacidade máxima das redes neurais, serve como uma excelente introdução ao seu uso em problemas de regressão e ao entendimento dos conceitos fundamentais envolvidos na construção e treinamento de modelos de redes neurais.
 
 
 
 ## Objetivo
-O objetivo deste projeto é demonstrar a aplicação prática de uma rede neural em um problema de regressão, onde queremos prever a temperatura em Fahrenheit com base em temperaturas fornecidas em graus Celsius. Especificamente, vamos:
+O objetivo deste projeto é demonstrar a aplicação prática de uma rede neural em um problema de regressão, onde queremos ajustar uma função que converte temperaturas de graus Celsius para Fahrenheit. Especificamente, vamos:
 
 - *Construção do Modelo de Rede Neural*:
     - Desenvolver uma rede neural simples para realizar a conversão de graus Celsius para Fahrenheit.
@@ -50,9 +50,9 @@ Este projeto serviu como um ponto de partida para o entendimento das redes neura
 ## 🛠 Ferramentas
 - Python 
 - Bibliotecas 
-    - Pandas
+    - Numpy
     - Matplotlib
-    - Seaborn
+    - SciPy
     
 
 
