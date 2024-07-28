@@ -34,6 +34,7 @@ O objetivo deste projeto é demonstrar a aplicação prática de uma rede neural
     - Implementação do feedforward e calcular a perda.
     - Implementação o algoritmo de backpropagation para ajustar os pesos e bia
 
+![perceptron](https://github.com/user-attachments/assets/4dbce30c-db55-4a04-9465-9ac91787b3bf)
 
 
 ## Conclusão
